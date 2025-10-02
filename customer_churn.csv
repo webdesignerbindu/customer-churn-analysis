@@ -1,0 +1,9 @@
+CustomerID,Name,TotalPurchase,LastPurchaseDays,Age,Churned
+101,John Smith,500,10,35,0
+102,Jane Doe,300,50,29,1
+103,Raj Patel,700,5,42,0
+104,Alice Lee,450,30,31,0
+105,Mark Chen,800,60,38,1
+106,Linda Kim,200,70,27,1
+107,Robert Tan,650,15,40,0
+108,Emma Liu,350,45,33,1
